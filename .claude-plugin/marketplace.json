@@ -1,0 +1,27 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "mario-plugins",
+  "description": "Mario Percivaldi's collection of Claude Code plugins.",
+  "owner": {
+    "name": "Mario Percivaldi",
+    "url": "https://github.com/marioPercivaldi"
+  },
+  "plugins": [
+    {
+      "name": "docmd",
+      "description": "Convert file attachments (PDF, DOCX, PPTX, XLSX, images, audio, CSV, JSON, XML, HTML, EPUB) to Markdown before Claude reads them, optimizing token usage via Microsoft MarkItDown.",
+      "author": {
+        "name": "Mario Percivaldi",
+        "url": "https://github.com/marioPercivaldi"
+      },
+      "category": "productivity",
+      "source": {
+        "source": "github",
+        "repo": "marioPercivaldi/docmd",
+        "ref": "main"
+      },
+      "homepage": "https://github.com/marioPercivaldi/docmd",
+      "keywords": ["markdown", "pdf", "token-optimization", "markitdown", "mcp", "documents"]
+    }
+  ]
+}
