@@ -19,3 +19,15 @@ Convert file attachments (PDF, DOCX, PPTX, XLSX, images, audio, CSV, JSON, XML, 
 ```
 
 → [Repository](https://github.com/marioPercivaldi/docmd)
+
+---
+
+## Guides
+
+Setup guides for MCP servers and tools used alongside these plugins.
+
+### WhatsApp MCP
+
+Connect your personal WhatsApp to Claude Code: read messages, download and transcribe voice notes, send replies — all from the chat.
+
+→ [Setup guide](guides/whatsapp-mcp.md)
