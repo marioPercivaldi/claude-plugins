@@ -22,6 +22,22 @@
       },
       "homepage": "https://github.com/marioPercivaldi/docmd",
       "keywords": ["markdown", "pdf", "token-optimization", "markitdown", "mcp", "documents"]
+    },
+    {
+      "name": "phomemo",
+      "description": "Print labels and images on a Phomemo M110 Bluetooth thermal printer directly from Claude Code.",
+      "author": {
+        "name": "Mario Percivaldi",
+        "url": "https://github.com/marioPercivaldi"
+      },
+      "category": "productivity",
+      "source": {
+        "source": "github",
+        "repo": "marioPercivaldi/phomemo",
+        "ref": "main"
+      },
+      "homepage": "https://github.com/marioPercivaldi/phomemo",
+      "keywords": ["phomemo", "label-printer", "thermal", "bluetooth", "sticker", "mcp"]
     }
   ]
 }
