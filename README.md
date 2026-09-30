@@ -20,6 +20,16 @@ Convert file attachments (PDF, DOCX, PPTX, XLSX, images, audio, CSV, JSON, XML, 
 
 → [Repository](https://github.com/marioPercivaldi/docmd)
 
+### wa-leads
+
+WhatsApp Business lead inbox: incoming messages from potential clients land in a pending queue and Claude drafts and sends the first-contact reply. Private repo (SSH access required).
+
+```shell
+/plugin install wa-leads@mario-plugins
+```
+
+→ [Repository](https://github.com/marioPercivaldi/wa-leads)
+
 ---
 
 ## Guides

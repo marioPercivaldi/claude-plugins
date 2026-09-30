@@ -21,7 +21,14 @@
         "ref": "main"
       },
       "homepage": "https://github.com/marioPercivaldi/docmd",
-      "keywords": ["markdown", "pdf", "token-optimization", "markitdown", "mcp", "documents"]
+      "keywords": [
+        "markdown",
+        "pdf",
+        "token-optimization",
+        "markitdown",
+        "mcp",
+        "documents"
+      ]
     },
     {
       "name": "phomemo",
@@ -37,7 +44,36 @@
         "ref": "main"
       },
       "homepage": "https://github.com/marioPercivaldi/phomemo",
-      "keywords": ["phomemo", "label-printer", "thermal", "bluetooth", "sticker", "mcp"]
+      "keywords": [
+        "phomemo",
+        "label-printer",
+        "thermal",
+        "bluetooth",
+        "sticker",
+        "mcp"
+      ]
+    },
+    {
+      "name": "wa-leads",
+      "description": "WhatsApp Business lead inbox: receive messages from potential clients, queue them as pending leads and send the first-contact reply from Claude Code.",
+      "author": {
+        "name": "Mario Percivaldi",
+        "url": "https://github.com/marioPercivaldi"
+      },
+      "category": "productivity",
+      "source": {
+        "source": "url",
+        "url": "git@github.com:marioPercivaldi/wa-leads.git",
+        "ref": "main"
+      },
+      "homepage": "https://github.com/marioPercivaldi/wa-leads",
+      "keywords": [
+        "whatsapp",
+        "whatsapp-business",
+        "leads",
+        "crm",
+        "inbox"
+      ]
     }
   ]
 }
